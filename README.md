@@ -3,7 +3,7 @@
 ## FastVue
 
 ### Authors
-- [Fesal](https://github.com/FesalBadday)
+- [Fesal Badday](https://github.com/FesalBadday)
 - [Evan Burton](https://github.com/Rankorrdagod)
 - [Jean-Marc](https://github.com/QDetective)
 - [Mysia Santana](https://github.com/Mysia14)
