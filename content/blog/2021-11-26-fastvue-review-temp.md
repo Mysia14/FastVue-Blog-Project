@@ -6,14 +6,6 @@ description: '"A overview from four Web Development Students about Vue.js,
 ---
 ## **(Draft):**
 
-### **\# Introduction/definition about Tailwindcss**
-
-###### \* The Pros and Cons Of Vue.js
-
-###### \* How to Install
-
-###### \*  some links
-
 ### \* Our impressions and reviews: (to add/article)
 
 1. Evan: Enjoyed learning Nuxt for the most part, I think because of the amount of time we had to learn it in class I’m still a little unsure of all the ins and outs. I enjoy doing Vue and working with components and the pages they load to. Tailwind seems interesting, I’m not sure if I enjoy using it but I guess we’ll see after this project! Maybe this site will look nice, maybe it’ll be a disgusting mess.
