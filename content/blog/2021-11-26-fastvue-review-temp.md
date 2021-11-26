@@ -19,3 +19,5 @@ description: '"A overview from four Web Development Students about Vue.js,
 ***`References: (should go here or only in the README.md????`***
 
 ***`-`*** https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ (2019)
+
+\- https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted- (2019)languages
