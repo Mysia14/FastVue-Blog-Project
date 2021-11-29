@@ -29,9 +29,7 @@ To put it into context, we have to make it clear that this article is not about 
 
 \--------------------------------------------------------------------------------------------------------------
 
-# ***`???`***
-
-***`References: (should go here or only in the README.md????`***
+***`References:README.md????`***
 
 ***`-`*** https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ (2019)
 
