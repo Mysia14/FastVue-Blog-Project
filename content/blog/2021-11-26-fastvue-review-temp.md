@@ -4,9 +4,11 @@ date: 2021-11-26T18:17:59.509Z
 description: '"A overview from four Web Development Students about Vue.js,
   Nuxt.js and Tailwindcss " '
 ---
+With all the new libraries and frameworks it is pretty hard to keep up with all of them, and that is if you can even decide which ones are worth spending time one. VueJS is gaining continuous popularity lately and considered as one of the best JavaScript (JS ) framework.
+
 For developers who have experience Vue.js and also for those who want to change areas, there are many opportunities with Vue.
 
-To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  one of the most used and robust solutions used for creating websites and that, for sure, can be the solution to some of your current pains.
+To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  one of the most used and robust solutions used for creating websites and\*\*\*\* that, for sure, can be the solution to some of your current pains, and the 
 
 \*\*\*\*In the last two weeks we as Web Development students, at SAIT (Southern Institute of Technology), we have been exposed to several features of these three frameworks.\*\*\*\*
 
