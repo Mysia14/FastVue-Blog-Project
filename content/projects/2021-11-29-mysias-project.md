@@ -1,5 +1,5 @@
 ---
 title: "Mysia's Project "
-description: "Paste link:"
-image: /assets/images/fesal-gallery-website.png
+description: https://thirsty-leakey-aa78a4.netlify.app/
+image: /assets/images/vue.project.sample.png
 ---
