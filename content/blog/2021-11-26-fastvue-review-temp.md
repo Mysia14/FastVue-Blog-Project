@@ -1,16 +1,24 @@
 ---
-title: FastVue Homepage  (Draft)
+title: '"A overview from four Web Development Students about Vue.js, Nuxt.js and
+  Tailwindcss " '
 date: 2021-11-26T18:17:59.509Z
-description: '"A overview from four Web Development Students about Vue.js,
-  Nuxt.js and Tailwindcss " '
+description: FastVue Homepage  (Draft)
 ---
+
+
+# **The new legacy of Vue.js, Tailwindcss and Nuxt.js**
+
+
+
+In the last two weeks we as Web Development students, at SAIT (Southern Institute of Technology), we have been exposed to several features of these three frameworks.
+
 With all the new libraries and frameworks it is pretty hard to keep up with all of them, and that is if you can even decide which ones are worth spending time one. VueJS is gaining continuous popularity lately and considered as one of the best JavaScript (JS ) framework.
 
-For developers who have experience Vue.js and also for those who want to change areas, there are many opportunities with Vue.
+For developers who have experience Vue.js and also for those who want to change areas, there are many opportunities with **Vue.js, Tailwindcss and Nuxt.js.**
 
-To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  one of the most used and robust solutions used for creating websites and\*\*\*\* that, for sure, can be the solution to some of your current pains, and the 
+To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  ones of the most used and robust solutions used for creating websites and that, for sure, can be the solution to some of your current pains.
 
-\*\*\*\*In the last two weeks we as Web Development students, at SAIT (Southern Institute of Technology), we have been exposed to several features of these three frameworks.\*\*\*\*
+
 
 \*\*\*\*Our impressions and reviews: (to add/article)\*\*\*\*\*\*
 
@@ -18,15 +26,3 @@ To put it into context, we have to make it clear that this article is not about 
 2. Fesal: I enjoyed working with Nuxt and I can see how it could save me time, like doing multiple pages and then just simply calling them from the components. I enjoyed working with both v-for and mustache syntaxes, I did work with v-html/v-text but in future, I don't see any benefit of using v-html/v-text over the mustache? also, one thing I did not like about the v-for is that it's not as simple as the regular for loop just like in JS, don't get me wrong, it's easy once you do it and you get it to work but I still prefer the regular for loop.
 3. Mysia: What I've like most about this project was the usability of the components and how they work together...
 4. Jean Marc: ?
-
-\--------------------------------------------------------------------------------------------------------------
-
-***`References:README.md????`***
-
-***`-`*** https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ (2019)
-
-\- https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted- (2019)languages
-
-\- https://ramsalt.com/en/blog/save-time-new-css-framework-tailwindcss **( Tailwind logo)**
-
-**\-** https://blog.geekhunter.com.br/vue-js-so-vejo-vantagens-e-voce/ (2020)
