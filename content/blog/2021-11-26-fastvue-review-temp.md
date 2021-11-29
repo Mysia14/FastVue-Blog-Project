@@ -4,19 +4,11 @@ date: 2021-11-26T18:17:59.509Z
 description: '"A overview from four Web Development Students about Vue.js,
   Nuxt.js and Tailwindcss " '
 ---
-# **Vue.js**
-
-If you are used to creating a lot of development projects, you have probably already wondered which tools would be the best and most efficient to assist in this function. Is it React, Vue or Angular?
-
-Who knows that framework you hear so much about would not be the best choice, or maybe that one which has just been released,  would solve all your problems?
-
-It's easy to get lost in the middle of so many options and end up making the wrong choices, and that's not a bad thing, as every mistake becomes new learning and improvement for the next project.
-
-To help you with this decision, we'll talk about a very consolidated tool and with a large number of contributors, you may have heard about it: Vue.js.
+With all the new libraries and frameworks it is pretty hard to keep up with all of them, and that is if you can even decide which ones are worth spending time one. VueJS is gaining continuous popularity lately and considered as one of the best JavaScript (JS ) framework.
 
 For developers who have experience Vue.js and also for those who want to change areas, there are many opportunities with Vue.
 
-To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  one of the most used and robust solutions used for creating websites and that, for sure, can be the solution to some of your current pains.
+To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  one of the most used and robust solutions used for creating websites and\*\*\*\* that, for sure, can be the solution to some of your current pains, and the 
 
 \*\*\*\*In the last two weeks we as Web Development students, at SAIT (Southern Institute of Technology), we have been exposed to several features of these three frameworks.\*\*\*\*
 
@@ -29,9 +21,7 @@ To put it into context, we have to make it clear that this article is not about 
 
 \--------------------------------------------------------------------------------------------------------------
 
-# ***`???`***
-
-***`References: (should go here or only in the README.md????`***
+***`References:README.md????`***
 
 ***`-`*** https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ (2019)
 
