@@ -33,6 +33,8 @@
 
 - https://blog.geekhunter.com.br/vue-js-so-vejo-vantagens-e-voce/ (2020) 
 
+- https://www.webdesignerdepot.com/2021/09/the-pros-and-cons-of-tailwind-css/ (2021)
+
  ---
 
 ## Build Setup :information_source:
