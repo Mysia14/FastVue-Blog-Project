@@ -1,12 +1,14 @@
 <template>
-  <div>
+  <main>
     <Navigation />
-    <Header :pageInfo="siteInfo" :team="team" />
-    <main class="flex justify-evenly gap-x-16 gap-y-16 flex-wrap p-16 bg-gray-400">
+    <Header :pageInfo="siteInfo" />
+
+    <section>
+
       <Team :pageInfo="siteInfo" v-for="member in team" :key="member.id" :memberInfo="member" />
-    </main>
+    </section>
     <Footer :pageInfo="siteInfo" />
-  </div>
+  </main>
 </template>
 <script>
 export default {
@@ -14,32 +16,32 @@ export default {
     return {
       siteInfo: {
         pageName: "Our Team",
-        teamName: "FastVue",
+        author: "FastVue",
       },
       team: [
         {
-          name: "name",
-          image: "images",
-          role: "role",
-          link: "url",
+          name: "Fesal Badday",
+          image: "/assets/images/fesal.png",
+          role: "Backend Dev",
+          link: "https://github.com/FesalBadday",
         },
         {
-          name: "name",
-          image: "images",
-          role: "role",
-          link: "url",
+          name: "Evan Burton",
+          image: "/assets/images/evanpic.jpg",
+          role: "Designer",
+          link: "https://github.com/Rankorrdagod",
         },
         {
-          name: "name",
-          image: "images",
-          role: "role",
-          link: "url",
+          name: "Jean-Marc Der",
+          image: "/assets/images/Jean-Marc.jpg",
+          role: "Frontend Dev",
+          link: "https://github.com/QDetective",
         },
         {
-          name: "name",
-          image: "images",
-          role: "role",
-          link: "url",
+          name: "Mysia Santana",
+          image: "/assets/images/",
+          role: "Content Editor",
+          link: "https://github.com/Mysia14",
         },
       ],
     };

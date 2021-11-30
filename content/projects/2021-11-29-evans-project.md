@@ -3,5 +3,5 @@ title: Evan's Project
 description: |-
   Link goes here
   ** Change image!!!
-image: /assets/images/fesal-gallery-website.png
+image: /assets/images/evan-project.jpg
 ---
