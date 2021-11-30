@@ -1,7 +1,7 @@
 ---
 title: Tailwindcss
 date: 2021-11-30T20:43:37.733Z
-description: tailwindcss
+description: '"A overview from four Web Development Students about Tailwindcss"'
 ---
 
 
