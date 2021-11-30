@@ -2,7 +2,9 @@
   <main>
     <Navigation />
     <Header :pageInfo="siteInfo" />
+    
     <section>
+
       <Team :pageInfo="siteInfo" v-for="member in team" :key="member.id" :memberInfo="member" />
     </section>
     <Footer :pageInfo="siteInfo" />
@@ -25,7 +27,7 @@ export default {
         },
         {
           name: "Evan Burton",
-          image: "/assets/images/",
+          image: "/assets/images/evanpic.jpg",
           role: "Designer",
           link: "https://github.com/Rankorrdagod",
         },
