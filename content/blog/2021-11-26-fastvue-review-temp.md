@@ -18,6 +18,6 @@ Here some impressions from this unique team:
 
 *"I enjoyed working with Nuxt and I can see how it could save me time, like doing multiple pages and then just simply calling them from the components. I enjoyed working with both v-for and mustache syntaxes, I did work with v-html/v-text but in future, I don't see any benefit of using v-html/v-text over the mustache? also, one thing I did not like about the v-for is that it's not as simple as the regular for loop just like in JS, don't get me wrong, it's easy once you do it and you get it to work but I still prefer the regular for loop."* **(Fesal).**
 
-*"What I've like most about this Vue was the usability of the components and how they work together. Tailwindcss it's seemed to be complicated at the first sight but it gets easier to use as it has a very long and easy documentation, however it certainly will help you to save some time in large projects design.."* **(Mysia). (((( improve it))))**
+*"What I've like most about this Vue.js was the usability of the components and how they work together. Tailwindcss it's seemed to be complicated at the first sight but it gets easier to use as it has a very long and easy documentation, however it certainly will help you to save some time in large projects design. About Nuxt.js one thing that let me down was you can't find many manual configurationsto be done, instead the documentation guides you to follow the directory structure that is automatically generated when creating a new project."* **(Mysia).**
 
 Jean Marc: ?
