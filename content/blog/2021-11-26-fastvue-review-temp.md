@@ -10,7 +10,7 @@ With all the new libraries and frameworks it is pretty hard to keep up with all 
 
 For developers who have experience Vue.js and also for those who want to change areas, there are many opportunities with **Vue.js, Tailwindcss and Nuxt.js.**
 
-To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  ones of the most trending and robust solutions used for creating websites and that, for sure, can be the solution to some of your current pains.
+To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  ones of the most trending and robust solutions used for creating websites and that, for sure, can be the solution to some of your current pains. Doesn't matter if you are a Junior or Senior Developer.
 
 Here some impressions from this unique team:
 
