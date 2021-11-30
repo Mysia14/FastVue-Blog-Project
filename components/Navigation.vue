@@ -12,7 +12,7 @@
       <li><NuxtLink class="hover:text-pink-600" to="/">Home</NuxtLink></li>
       <li><NuxtLink class="hover:text-pink-600" to="/">Content</NuxtLink></li>
       <li><NuxtLink class="hover:text-pink-600" to="/projects">Showcase</NuxtLink></li>
-      <li><NuxtLink class="hover:text-pink-600" to="/">Members</NuxtLink></li>
+      <li><NuxtLink class="hover:text-pink-600" to="/team">Members</NuxtLink></li>
       <li><NuxtLink class="hover:text-pink-600" to="/contact">Contact</NuxtLink></li>
     </ul>
   </nav>
