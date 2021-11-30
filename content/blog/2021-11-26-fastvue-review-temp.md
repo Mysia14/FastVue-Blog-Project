@@ -1,8 +1,8 @@
 ---
-title: '"A overview from four Web Development Students about Vue.js, Nuxt.js and
-  Tailwindcss " '
+title: FastVue Overview
 date: 2021-11-26T18:17:59.509Z
-description: FastVue Homepage  (Draft)
+description: "A overview from four Web Development Students about Vue.js,
+  Nuxt.js and Tailwindcss "
 ---
 # **The new legacy of Vue.js, Tailwindcss and Nuxt.js**
 
