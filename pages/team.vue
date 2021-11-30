@@ -2,7 +2,7 @@
   <main>
     <Navigation />
     <Header :pageInfo="siteInfo" />
-    
+
     <section>
 
       <Team :pageInfo="siteInfo" v-for="member in team" :key="member.id" :memberInfo="member" />
@@ -32,7 +32,7 @@ export default {
           link: "https://github.com/Rankorrdagod",
         },
         {
-          name: "Jean Marc",
+          name: "Jean-Marc Der",
           image: "/assets/images/Jean-Marc.jpg",
           role: "Frontend Dev",
           link: "https://github.com/QDetective",
