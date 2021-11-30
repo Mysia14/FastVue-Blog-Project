@@ -23,7 +23,15 @@
 - **Most importantly have fun.**
 
 ## Information :information_source:
-- 
+#### References:
+
+- https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/ (2019)
+
+- https://insights.stackoverflow.com/survey/2019#technology-_-most-loved-dreaded-and-wanted-languages (2019)
+
+- [Tailwindcss Logo](https://ramsalt.com/en/blog/save-time-new-css-framework-tailwindcss) 
+
+- https://blog.geekhunter.com.br/vue-js-so-vejo-vantagens-e-voce/ (2020) 
 
  ---
 
