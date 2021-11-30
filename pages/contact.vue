@@ -1,6 +1,7 @@
 <template>
   <main>
     <Navigation />
+    <Header :pageInfo="siteInfo" />
     <section class="p-16 text-center bg-gray-200">
       <h2 class="text-gray-400 text-6xl m-10">Get In Touch With Us</h2>
       <div class="flex justify-evenly flex-wrap">
@@ -15,5 +16,19 @@
       </form>
       </div>
     </section>
+    <Footer :pageInfo="siteInfo" />
   </main>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      siteInfo: {
+        pageName: "Contact US",
+        author: "FastVue",
+      },
+    };
+  },
+};
+</script>
