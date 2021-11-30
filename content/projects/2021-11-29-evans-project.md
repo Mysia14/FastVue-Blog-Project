@@ -1,5 +1,7 @@
 ---
 title: Evan's Project
-description: link goes here
+description: |-
+  Link goes here
+  ** Change image!!!
 image: /assets/images/fesal-gallery-website.png
 ---
