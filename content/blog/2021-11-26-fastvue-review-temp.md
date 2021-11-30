@@ -21,3 +21,9 @@ Here some impressions from this unique team:
 *"What I've like most about this Vue.js was the usability of the components and how they work together. Tailwindcss it's seemed to be complicated at the first sight but it gets easier to use as it has a very long and easy documentation, however it certainly will help you to save some time in large projects design. About Nuxt.js one thing that let me down was you can't find many manual configurationsto be done, instead the documentation guides you to follow the directory structure that is automatically generated when creating a new project."* **(Mysia Santana).**
 
 Jean Marc Der: ?
+
+
+
+We hope this article can help you to spend  less time on setup and more time on what really matters: solving problems and building great apps with Vue JS, Nuxt.js and Tailwindcss. 
+
+In our Gallery you will find some of our projects using those three frameworks.
