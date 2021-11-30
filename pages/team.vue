@@ -2,7 +2,9 @@
   <main>
     <Navigation />
     <Header :pageInfo="siteInfo" />
+    
     <section>
+
       <Team :pageInfo="siteInfo" v-for="member in team" :key="member.id" :memberInfo="member" />
     </section>
     <Footer :pageInfo="siteInfo" />

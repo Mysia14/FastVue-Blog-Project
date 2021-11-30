@@ -1,5 +1,8 @@
 <template>
+
+
   <div class="text-center flex justify-center p-5 bg-gray-500">
+  
     <figure>
       <h3 class="text-5xl p-2">{{ memberInfo.name }}</h3>
       <a :href="memberInfo.link" target="_blank">
