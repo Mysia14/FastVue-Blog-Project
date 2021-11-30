@@ -1,6 +1,7 @@
 <template>
   <main>
     <Navigation />
+    <Header :pageInfo="siteInfo" />
     <section>
       <figure v-for="project in projects" :key="project.slug">
         <a :href="project.description" target="_blank">
@@ -9,17 +10,31 @@
         <figcaption>{{ project.title }}</figcaption>
       </figure>
     </section>
+    <Footer :pageInfo="siteInfo" />
   </main>
 </template>
 
 <script>
 export default {
-  // fetch the data from the blog in the content folder
-  async asyncData({ $content }) {
-    const projects = await $content("projects").fetch();
+  data() {
     return {
-      projects,
+      siteInfo: {
+        pageName: "Our Projects",
+        author: "FastVue",
+      },
     };
+  },
+
+  // fetch the data from projects in the content folder
+  async asyncData({ $content, error }) {
+    try {
+      const projects = await $content(`projects`).fetch();
+      return {
+        projects,
+      };
+    } catch (error) {
+      error("No projects found");
+    }
   },
 };
 </script>
