@@ -22,8 +22,6 @@ Here some impressions from this unique team:
 
 Jean Marc Der: ?
 
-
-
 We hope this article can help you to spend  less time on setup and more time on what really matters: solving problems and building great apps with Vue JS, Nuxt.js and Tailwindcss. 
 
 In our Gallery you will find some of our projects using those three frameworks.
