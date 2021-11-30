@@ -2,9 +2,9 @@
   <v-main>
     <Navigation />
     <Header :pageInfo="siteInfo" />
-    <section>
-      <h2>{{ post.title }}</h2>
-      <nuxt-content :document="post" />
+    <section class="flex flex-col text-center">
+      <h2 class="text-4xl m-5">{{ post.title }}</h2>
+      <nuxt-content class="text-justify ml-10 mr-10" :document="post" />
     </section>
     <Footer :pageInfo="siteInfo" />
   </v-main>
