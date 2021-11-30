@@ -1,11 +1,9 @@
 ---
-title: FastVue Overview
+title: The new legacy of Vue.js, Tailwindcss and Nuxt.js
 date: 2021-11-26T18:17:59.509Z
-description: "A overview from four Web Development Students about Vue.js,
-  Nuxt.js and Tailwindcss "
+description: A overview from four Web Development Students about Vue.js, Nuxt.js
+  and Tailwindcss.
 ---
-# **The new legacy of Vue.js, Tailwindcss and Nuxt.js**
-
 
 
 In the last two weeks we as Web Development students, at SAIT (Southern Institute of Technology), we have been exposed to several features of these three frameworks.
