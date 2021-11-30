@@ -25,7 +25,7 @@ export default {
         },
         {
           name: "Evan Burton",
-          image: "/assets/images/",
+          image: "/assets/images/evanpic.jpg",
           role: "Designer",
           link: "https://github.com/Rankorrdagod",
         },
