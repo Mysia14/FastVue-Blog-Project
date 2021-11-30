@@ -35,6 +35,14 @@
 
 - https://www.webdesignerdepot.com/2021/09/the-pros-and-cons-of-tailwind-css/ (2021)
 
+- https://digitalinnovation.one/artigos/introducao-ao-nuxtjs-conheca-este-incrivel-framework (2021)
+- https://vuejs.org 
+- https://github.com/vuejs>  
+- [https://www.npmjs.com/package/vue ](https://www.npmjs.com/package/vue)
+- [https://tailwindcss.com/](< https://tailwindcss.com/>)
+- [https://github.com/tailwindlabs/tailwindcs](https://github.com/tailwindlabs/tailwindcss)
+- [https://nuxtjs.org/docs/get-started/installation/](< https://nuxtjs.org/docs/get-started/installation/>)
+
  ---
 
 ## Build Setup :information_source:
