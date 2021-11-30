@@ -1,5 +1,5 @@
 <template>
-  <header class="grid justify-items-center p-8 text-6xl bg-gray-400">
+  <header>
     <h1>{{ pageInfo.pageName }}</h1>
   </header>
 </template>
