@@ -14,7 +14,7 @@ For developers who have experience Vue.js and also for those who want to change 
 
 To put it into context, we have to make it clear that this article is not about the perfect choice that will work for all cases without exception, even why this tool has yet to be created. We will be presented here a short overview about the  ones of the most used and robust solutions used for creating websites and that, for sure, can be the solution to some of your current pains.
 
-Here some impresions from this unique team:
+Here some impressions from this unique team:
 
  *"Enjoyed learning Nuxt for the most part, I think because of the amount of time we had to learn it in class I’m still a little unsure of all the ins and outs. I enjoy doing Vue and working with components and the pages they load to. Tailwind seems interesting, I’m not sure if I enjoy using it but I guess we’ll see after this project! Maybe this site will look nice, maybe it’ll be a disgusting mess."* **(Evan).**
 
