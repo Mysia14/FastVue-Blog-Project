@@ -33,7 +33,7 @@ export default {
         },
         {
           name: "Jean Marc",
-          image: "/assets/images/Jean-Marc.png",
+          image: "/assets/images/Jean-Marc.jpg",
           role: "Frontend Dev",
           link: "https://github.com/QDetective",
         },
