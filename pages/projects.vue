@@ -2,13 +2,15 @@
   <main>
     <Navigation />
     <Header :pageInfo="siteInfo" />
-    <section class="text-center flex flex-col bg-gray-500">
+    <section>
+    <div class="flex flex-wrap text-center justify-evenly">
       <figure class="p-10" v-for="project in projects" :key="project.slug">
+      <figcaption class="text-4xl m-10 bg-black text-white pb-2 ">{{ project.title }}</figcaption>
         <a :href="project.description" target="_blank">
           <nuxt-img :src="project.image" sizes="sm:400px md:600px lg:800px" />
         </a>
-        <figcaption class="text-6xl">{{ project.title }}</figcaption>
       </figure>
+      </div>
     </section>
     <Footer :pageInfo="siteInfo" />
   </main>
