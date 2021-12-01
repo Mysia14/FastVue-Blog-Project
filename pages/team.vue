@@ -4,7 +4,7 @@
     <Header :pageInfo="siteInfo" />
     
     <section>
-    <div class="flex flex-wrap text-center justify-evenly ">
+    <div class="flex flex-wrap text-center justify-evenly mb-5">
       <Team :pageInfo="siteInfo" v-for="member in team" :key="member.id" :memberInfo="member" />
       </div>
     </section>

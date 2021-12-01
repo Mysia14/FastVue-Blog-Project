@@ -1,7 +1,5 @@
 ---
 title: Evan's Project
-description: |-
-  Link goes here
-  ** Change image!!!
-image: /assets/images/evan-project.jpg
+description:  https://github.com/Rankorrdagod/cpnt200-a4
+image: /assets/images/evan-project.JPG
 ---
