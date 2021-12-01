@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "preinstall": "npx npm-force-resolutions"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
@@ -21,5 +22,9 @@
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.2",
     "tailwindcss": "^2.2.19"
+  },
+  "resolutions": {
+    "nth-check": "^2.0.1",
+    "glob-parent": "^5.1.2"
   }
 }
