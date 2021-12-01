@@ -11,7 +11,8 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.15.1",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "vue-slugify": "^0.1.0"
   },
   "devDependencies": {
     "@nuxt/image": "^0.6.0",
