@@ -33,7 +33,7 @@ See example below:
 
 ![Control the font size of an element using the text-{size} utilities.](/assets/images/screenshot-taiwlind-css.png)
 
-
+Tailwind CSS has a long documentation so that why we suggest take a look at their website and discover the amazing customizing options that you can have and give a . We are pretty sure that you gonna be surprised. 
 
 
 
