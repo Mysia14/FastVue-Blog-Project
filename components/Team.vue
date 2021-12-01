@@ -8,7 +8,7 @@
       <a :href="memberInfo.link" target="_blank">
         <nuxt-img class="rounded-full border-solid border-4 border-black" :src="memberInfo.image" sizes="sm:300px md:400px lg:500px" />
       </a>
-      <figcaption class="text-3xl"v-text="memberInfo.role" />
+      <figcaption class="text-3xl" v-text="memberInfo.role" />
     </figure>
   </div>
 </template>
