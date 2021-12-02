@@ -2,9 +2,9 @@
   <main>
     <Navigation />
     <Header :pageInfo="siteInfo" />
-    <section class="p-16 text-center ">
-      <h2 class="text-black text-6xl m-10">Get In Touch With Us</h2>
-      <div class="flex justify-evenly flex-wrap">
+    <section class="">
+      <h2 class="text-black text-6xl m-10 p-16 text-center">Get In Touch With Us</h2>
+      <div class="text-center">
       <form action="https://formspree.io/f/xayakjqr" method="POST" id="contact">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name" placeholder="Your Name" required>
