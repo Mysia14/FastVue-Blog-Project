@@ -1,7 +1,7 @@
 ---
 title: Jean-Marc's Project
 description: |-
-  Link goes here
+  Jean Marc's project link goes here
   ** Change image!!!
 image: /assets/images/Jean-Marc.jpg
 ---
