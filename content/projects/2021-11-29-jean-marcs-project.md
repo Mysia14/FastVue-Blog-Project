@@ -1,5 +1,5 @@
 ---
-title: Jean Marc's Project
+title: Jean-Marc's Project
 description: |-
   Link goes here
   ** Change image!!!
