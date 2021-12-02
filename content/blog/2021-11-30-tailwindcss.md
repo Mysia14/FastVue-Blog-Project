@@ -9,6 +9,8 @@ Tailwind CSS is a framework designed to maximize the potential of good old CSS a
 
 One of the best things about Tailwind CSS is that it is highly customizable. You can create custom designs and great custom user interfaces. It won't require an extraordinary coding effort.
 
+
+
 ##### The Pros and Cons
 
 * It helps you to make the website super responsive.
@@ -19,13 +21,19 @@ One of the best things about Tailwind CSS is that it is highly customizable. You
 
 
 
-### Who is using Tailwindcss:
+Tailwind CSS can be installed with your favorite framework like Vue, Nuxt and more. These steps bellow, you can also find in the the Tailwind CSS website.
+
+But if want customize your font size,layout, flexbox and grid, spacing, sizing, typography, backgrounds, borders, effects, filter, tables and more.    
+
+By default  Tailwind CSS provides 10 font-size utilities. You change, add, or remove these by editing the theme.fontSize section of your Tailwind config.
+
+See example below:
 
 
 
-*
+![Control the font size of an element using the text-{size} utilities.](/assets/images/screenshot-taiwlind-css.png)
 
-
+Tailwind CSS has a long documentation so that why we suggest take a look at their website and discover the amazing customizing options that you can have and give a . We are pretty sure that you gonna be surprised. 
 
 
 

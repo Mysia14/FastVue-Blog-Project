@@ -4,8 +4,9 @@
     <Header :pageInfo="siteInfo" />
 
     <section>
-
+    <div class="flex flex-wrap text-center justify-evenly mb-5">
       <Team :pageInfo="siteInfo" v-for="member in team" :key="member.id" :memberInfo="member" />
+      </div>
     </section>
     <Footer :pageInfo="siteInfo" />
   </main>
@@ -32,7 +33,7 @@ export default {
           link: "https://github.com/Rankorrdagod",
         },
         {
-          name: "Jean-Marc Der",
+          name: "Jean Marc",
           image: "/assets/images/Jean-Marc.jpg",
           role: "Frontend Dev",
           link: "https://github.com/QDetective",
