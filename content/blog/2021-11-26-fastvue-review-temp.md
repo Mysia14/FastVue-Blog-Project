@@ -1,5 +1,5 @@
 ---
-title: The new legacy of Vue.js, Tailwind CSS and Nuxt.js
+title: " Vue.js, Tailwind CSS and Nuxt.js"
 date: 2021-11-26T18:17:59.509Z
 description: A overview from four Web Development Students about Vue.js, Nuxt.js
   and Tailwind CSS.
