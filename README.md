@@ -50,6 +50,9 @@
 https://madewithvuejs.com/blog/enterprises-you-didnt-know-were-using-vue-js  (2019)
 - https://www.wappalyzer.com/technologies/web-frameworks/nuxt-js (2021)
 
+#### Attributions:
+- [Icah](https://github.com/Icahpv) testing contact form
+- [Jessica](https://github.com/Enyorose) testing contact form
  ---
 
 ## Build Setup :information_source:
