@@ -40,7 +40,7 @@ export default {
         },
         {
           name: "Mysia Santana",
-          image: "/assets/images/",
+          image: "/assets/images/Mysia.jpg",
           role: "Content Editor",
           link: "https://github.com/Mysia14",
         },
