@@ -1,6 +1,7 @@
 <template>
   <main>
     <Navigation />
+    
     <Header :pageInfo="siteInfo" />
     <section class="flex flex-wrap m-10">
       <p class="m-10">
@@ -24,13 +25,13 @@
       <h3 class="text-3xl bg-black text-white p-1">Here some impressions from this unique team:</h3>
 <div class="p-5">
       <cite class="text-2xl">~Evan</cite>
-      <blockquote classs="">
+      <blockquote>
         "Enjoyed learning Nuxt for the most part, I think because of the amount
         of time we had to learn it in class I’m still a little unsure of all the
         ins and outs. I enjoy doing Vue and working with components and the
         pages they load to. Tailwind seems interesting, I’m not sure if I enjoy
         using it but I guess we’ll see after this project! Maybe this site will
-        look nice, maybe it’ll be a disgusting mess".
+        look nice, maybe it’ll be a disgusting mess."
       </blockquote>
 </div>
 <div class="p-5">
@@ -43,7 +44,7 @@
         using v-html/v-text over the mustache? also, one thing I did not like
         about the v-for is that it's not as simple as the regular for loop just
         like in JS, don't get me wrong, it's easy once you do it and you get it
-        to work but I still prefer the regular for loop".
+        to work but I still prefer the regular for loop."
       </blockquote>
 </div>
 <div class="p-5">
@@ -53,7 +54,7 @@
         and how they work together. Tailwindcss it's seemed to be complicated at
         the first sight but it gets easier to use as it has a very long and easy
         documentation, but it will help you to save some time in large projects
-        design"..
+        design.."
       </blockquote>
 </div>
 <div class="p-5">
