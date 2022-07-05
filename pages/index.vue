@@ -50,7 +50,7 @@
 <div class="p-5">
        <cite class="text-2xl">~Mysia</cite>
       <blockquote>
-        "What I've like most about this Vue was the usability of the components
+        "What I've liked most about this Vue was the usability of the components
         and how they work together. Tailwindcss it's seemed to be complicated at
         the first sight but it gets easier to use as it has a very long and easy
         documentation, but it will help you to save some time in large projects
